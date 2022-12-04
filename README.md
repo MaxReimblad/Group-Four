@@ -13,6 +13,10 @@
 ## Documentation
 
 - User Stories
+- Daily Tasks & Activities are documented using Trello Workspace & MS Word
+
+![image](https://github.com/MaxReimblad/Group-Four/blob/main/imgs/Group_Work.PNG)
+
 
 ## Git workflow
 
