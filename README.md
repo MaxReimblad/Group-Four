@@ -25,6 +25,14 @@
 
 ![image](https://github.com/MaxReimblad/Group-Four/blob/main/imgs/Group_Work.PNG)
 
+## Skills
+
+Skill set required & used during the development of game using Java FX,
+
+- About Java FX.
+- Installation of Java FX plugin for IntelliJ IDE.
+- Creating VBox, Canavas, Scene, Graphic Context, Fill fonts, color, text using Graphic Context.
+- Event Handlers for Key Press.
 
 ## Git workflow
 
