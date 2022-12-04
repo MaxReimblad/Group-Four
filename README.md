@@ -15,6 +15,7 @@
 - User Stories
 
     As [Person/Developer] wants to [perform the tasks/activities/service] so that it can [achieve the goal]
+    
     Eg : 
     1. As a gamer I want a snake game so that I can play. 
     2. As a game developer I want to use JavaFX, CSS, algorithm files so that we can create a game snake.
