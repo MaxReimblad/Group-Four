@@ -11,3 +11,4 @@
 - 5:e december
 
 ## Git workflow
+!["Git Work flow"]("https://github.com/MaxReimblad/Group-Four/blob/main/imgs/GitWorkFlow.png?raw=true")
