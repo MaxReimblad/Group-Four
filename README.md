@@ -17,9 +17,9 @@
     As [Person/Developer] wants to [perform the tasks/activities/service] so that it can [achieve the goal]
     
     Eg : 
-    1. As a gamer I want a snake game so that I can play. 
-    2. As a game developer I want to use JavaFX, CSS, algorithm files so that we can create a game snake.
-    3. As a game developer I want to use JavaFX programming and as well as develop skills on JavaFX, so that we can create a snake game. 
+    1. As a **gamer** I want a **snake game** so that I can **play**. 
+    2. As a **game developer** I want to **use JavaFX, CSS, algorithm files** so that we can **create a game snake**.
+    3. As a **game developer** I want to **use JavaFX programming and as well as develop skills on JavaFX**, so that we can **create a snake game**. 
     
 - Daily Tasks & Activities are documented using Trello Workspace & MS Word
 
