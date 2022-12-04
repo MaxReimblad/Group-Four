@@ -18,7 +18,7 @@
     
     Eg : 
     1. As a **gamer** I want a **snake game** so that I can **play**. 
-    2. As a **game developer** I want to **use JavaFX, CSS, algorithm files** so that we can **create a game snake**.
+    2. As a **game developer** I want to **use JavaFX, CSS, algorithm files** so that we can **create a snake game**.
     3. As a **game developer** I want to **use JavaFX programming and as well as develop skills on JavaFX**, so that we can **create a snake game**. 
     
 - Daily Tasks & Activities are documented using Trello Workspace & MS Word
