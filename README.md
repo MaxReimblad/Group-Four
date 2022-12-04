@@ -25,6 +25,7 @@ When several people work on git, the merge conflicts frequently appear. In order
 We use git log to look for which commit is the last correct commit and reset into this commit.
 
 ``` git log ```
+
 ``` git reset ${the last correct commut} ```
 
 When we accomplish all feature, we are supposed to move on the CI-CD test. If the application passes the CI-CD test, we can merge all features into the main branch.
